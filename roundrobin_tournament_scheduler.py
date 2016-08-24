@@ -1,3 +1,7 @@
+"""
+Algo copied from http://www.devenezia.com/javascript/article.php/RoundRobin1.html
+"""
+
 from toolspy import write_xlsx_sheet
 import sys
 
